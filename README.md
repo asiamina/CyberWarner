@@ -1,4 +1,4 @@
-# KeepSafe
-Sonfication NSF Grant Project IRB 504763
+# KeepSafe: A Sonfication Sandbox
+A project funded by National Science foundation (NSF)
 
 For installation instructions, see "User Installlation Guide"
